@@ -1,0 +1,14 @@
+c:\Users\princ\Documents\CodingProblems\bin\Debug\net9.0\CodingProblems.exe
+C:\Users\princ\Documents\CodingProblems\bin\Debug\net9.0\CodingProblems.deps.json
+C:\Users\princ\Documents\CodingProblems\bin\Debug\net9.0\CodingProblems.runtimeconfig.json
+c:\Users\princ\Documents\CodingProblems\bin\Debug\net9.0\CodingProblems.dll
+c:\Users\princ\Documents\CodingProblems\bin\Debug\net9.0\CodingProblems.pdb
+c:\Users\princ\Documents\CodingProblems\obj\Debug\net9.0\CodingProblems.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\princ\Documents\CodingProblems\obj\Debug\net9.0\CodingProblems.AssemblyInfoInputs.cache
+c:\Users\princ\Documents\CodingProblems\obj\Debug\net9.0\CodingProblems.AssemblyInfo.cs
+c:\Users\princ\Documents\CodingProblems\obj\Debug\net9.0\CodingProblems.csproj.CoreCompileInputs.cache
+c:\Users\princ\Documents\CodingProblems\obj\Debug\net9.0\CodingProblems.dll
+c:\Users\princ\Documents\CodingProblems\obj\Debug\net9.0\refint\CodingProblems.dll
+c:\Users\princ\Documents\CodingProblems\obj\Debug\net9.0\CodingProblems.pdb
+C:\Users\princ\Documents\CodingProblems\obj\Debug\net9.0\CodingProblems.genruntimeconfig.cache
+C:\Users\princ\Documents\CodingProblems\obj\Debug\net9.0\ref\CodingProblems.dll
